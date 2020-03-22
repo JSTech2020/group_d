@@ -1,6 +1,6 @@
 # group_d
 
-  Repository Conventions ||
+ | Repository Conventions ||
  | --- | --- |
  | Branch Name | *feature/[issue_number]-[task_title]* or *hotfix/[issue_number]_[task_title]* or *release/[issue_number]_[task_title]* |
 
